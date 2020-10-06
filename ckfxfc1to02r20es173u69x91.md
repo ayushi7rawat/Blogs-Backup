@@ -1,4 +1,4 @@
-## Create Digital Clock with Python
+## Create A Digital Clock with Python
 
 Hi everyone,
 
