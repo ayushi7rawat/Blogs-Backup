@@ -10,7 +10,7 @@ You can refer to my YouTube video tutorial for a better understanding.
 
 Let's get started.
 ## It's Time to Code!
-You can find all the code at [my GitHub Repository.]()
+You can find all the code at [my GitHub Repository.](https://github.com/ayushi7rawat/Youtube-Projects/tree/master/Digital%20Clock)
 
 
 ![Screenshot_3.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1601817747383/FUxKAo2_z.png)
@@ -71,7 +71,7 @@ That's it and we are done! It will look something like this!
 
 
 ![Screenshot_1.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1601817624677/OqhZG5UH0.png)
-You can find the code at my [GitHub Repository]()
+You can find the code at my [GitHub Repository](https://github.com/ayushi7rawat/Youtube-Projects/tree/master/Digital%20Clock)
 
 If you have any queries or suggestions, feel free to reach out to me.
 
