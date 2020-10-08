@@ -156,11 +156,11 @@ Probably not all of these changes are relevant to your daily programming, but I 
 You can connect with me on [twitter](https://twitter.com/ayushi7rawat)
 
 Also, have look at my other blogs:
-- [Instagram Bot](https://dev.to/ayushi_rawat_/how-to-make-an-instagram-bot-with-python-1ggb)
-- [Twitter Bot](https://dev.to/ayushi7rawat/how-to-make-a-twitter-bot-with-python-3jg9)
-- [Add me to search](https://dev.to/ayushi_rawat_/add-me-to-search-in-3-simple-steps-27jg)
-- [GitHub Profile README](https://dev.to/ayushi_rawat_/create-a-github-profile-readme-in-3-simple-steps-3ofj)
-- [Git commit with past date](https://dev.to/ayushi_rawat_/git-hack-make-commit-with-a-past-date-24eg)
+- [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
+- [How to make your own Google Chrome Extension](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
+- [Create your own Audiobook from any pdf with Python](https://ayushirawat.com/create-your-own-audiobook-from-any-pdf-with-python)
+- [How to make an Instagram Bot with Python](https://ayushirawat.com/how-to-make-an-instagram-bot-with-python)
+- [You are Important & so is your Mental Health!](https://ayushirawat.com/you-are-important-and-so-is-your-mental-health)
 
 ## **Resources**
 - https://www.python.org/downloads/release/python-390a5/
