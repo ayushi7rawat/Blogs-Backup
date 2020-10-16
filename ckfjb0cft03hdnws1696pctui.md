@@ -44,7 +44,7 @@ It’s difficult to choose the best, so let’s try to understand the Features a
 
 1. Flask support Visual Debug whereas Django do not support for Visual Debug.
 
-2. Flask is a Python web framework built for rapid development whereas Django is a Python web framework built for easy and simple projects.
+2. Flask is a Python web framework built for rapid development whereas Django is a Python web framework built to make projects easy and simple.
 
 3. Flask allows you to use multiple types of databases whereas Django doesn't offer multiple types of databases.
 
