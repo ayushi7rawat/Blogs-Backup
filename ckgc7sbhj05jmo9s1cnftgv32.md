@@ -59,7 +59,7 @@ Here are 50 Tips to become a better programmer, overcome the common problems beg
 46. Share your learnings
 47. Stay mentally Fit
 48. Develop soft skills
-49. Practise typing
+49. Practice typing
 50. Value your work
 
 Thank you for reading, I would love to connect with you at [Twitter](https://twitter.com/ayushi7rawat).
