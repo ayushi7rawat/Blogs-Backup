@@ -8,6 +8,8 @@ You can refer to my video tutorial for the same on [YouTube](https://youtu.be/ZW
 
 This tutorial will guide you on how easily to build a chrome extension on your own. 
 
+[Repository for Ultimate Resource in python](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub). Drop a star if you find it useful! Got anything to add? Open a PR on the same!
+
 ## **What is a Chrome Extension?**
 **Extensions** are small software programs that customize the browsing experience. They enable users to tailor Chrome functionality and behaviour to individual needs or preferences.
 
@@ -95,6 +97,14 @@ You can also connect with me on [twitter](https://twitter.com/ayushi7rawat)
 
 I hope this helped you in understanding how to build your own chrome extension.
 If you have any Queries or Suggestions, please reach out to me in the Comments Section below.
+Also, have a look at my other Blogs:
+- [Python 3.9: All You need to know](https://ayushirawat.com/python-39-all-you-need-to-know)
+- [The Ultimate Python Resource hub](https://ayushirawat.com/the-ultimate-python-resource-hub)
+- [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
+- [Become a Better Programmer](https://ayushirawat.com/become-a-better-programmer)
+- [How to make your own Google Chrome Extension](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
+- [Create your own Audiobook from any pdf with Python](https://ayushirawat.com/create-your-own-audiobook-from-any-pdf-with-python)
+- [You are Important & so is your Mental Health!](https://ayushirawat.com/you-are-important-and-so-is-your-mental-health)
 
 Resource:
 https://developer.chrome.com/extensions
