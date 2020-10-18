@@ -158,10 +158,11 @@ Probably not all of these changes are relevant to your daily programming, but I 
 You can connect with me on [twitter](https://twitter.com/ayushi7rawat)
 
 Also, have look at my other blogs:
+- [The Ultimate Python Resource hub](https://ayushirawat.com/the-ultimate-python-resource-hub)
 - [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
+- [Become a Better Programmer](https://ayushirawat.com/become-a-better-programmer)
 - [How to make your own Google Chrome Extension](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
 - [Create your own Audiobook from any pdf with Python](https://ayushirawat.com/create-your-own-audiobook-from-any-pdf-with-python)
-- [How to make an Instagram Bot with Python](https://ayushirawat.com/how-to-make-an-instagram-bot-with-python)
 - [You are Important & so is your Mental Health!](https://ayushirawat.com/you-are-important-and-so-is-your-mental-health)
 
 ## **Resources**
