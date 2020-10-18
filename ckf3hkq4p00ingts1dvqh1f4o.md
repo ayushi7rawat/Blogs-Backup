@@ -4,6 +4,8 @@ Python is always evolving with the community needs and it will be most used lang
 
 The next version of Python brings a faster release schedule, performance boosts, handy new string functions, dictionary union operators, and more consistent and stable internal APIs.
 
+[Repository for Ultimate Resource in python](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub#Python-Community-and-Groups). Drop a star if you find it useful! Got anything to add? Open a PR on the same!
+
 This Blog post will cover:
 ```
 - Dictionary Unions and Update with Iterables
