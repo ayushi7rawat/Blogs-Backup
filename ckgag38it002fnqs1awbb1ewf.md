@@ -6,6 +6,8 @@ You can refer to my YouTube video tutorial for better Understanding
 
 %[https://www.youtube.com/watch?v=SrvqNAZ2Mh4]
 
+[Repository for Ultimate Resource in python](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub). Drop a star if you find it useful! Got anything to add? Open a PR on the same!
+
 ## Introduction
 
 The **email slicer ** is a quite handy program to get the username and domain name from an email address. You can play around and even customize it further and send a message to the user with this information.
@@ -74,11 +76,13 @@ Do share your valuable feedback and suggestions!
 
 You should definitely check out my other Blogs:
 
-- [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
 - [Python 3.9: All You need to know](https://ayushirawat.com/python-39-all-you-need-to-know)
-- [Create your own Audiobook from any pdf with Python](https://ayushirawat.com/create-your-own-audiobook-from-any-pdf-with-python)
+- [The Ultimate Python Resource hub](https://ayushirawat.com/the-ultimate-python-resource-hub)
+- [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
+- [Become a Better Programmer](https://ayushirawat.com/become-a-better-programmer)
 - [How to make your own Google Chrome Extension](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
-- [How to generate QR Code using Python](https://ayushirawat.com/how-to-generate-qr-code-using-python)
+- [Create your own Audiobook from any pdf with Python](https://ayushirawat.com/create-your-own-audiobook-from-any-pdf-with-python)
 - [You are Important & so is your Mental Health!](https://ayushirawat.com/you-are-important-and-so-is-your-mental-health)
+
 
 See you in my next Blog article, Take care!
