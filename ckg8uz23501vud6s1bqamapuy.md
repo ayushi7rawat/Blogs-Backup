@@ -143,13 +143,13 @@ You can find all the resources at my [GitHub Repository](https://github.com/ayus
 7. urwid
 8. Toga
 
-## Python Github Repositories 
+## 13. Python Github Repositories 
 1. [The Algorithms](https://github.com/TheAlgorithms/Python)
 2. [Python](https://github.com/python)
 3. [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 4. [Awesome Python](https://github.com/vinta/awesome-python)
 
-## Python Community and Groups
+## 14. Python Community and Groups
 1. [PySlackers](https://pyslackers.com/)
 2. [r/Python](https://www.reddit.com/r/Python/)
 3. [Python Discord Server](https://discord.com/invite/python)
