@@ -8,6 +8,9 @@ You can also refer to the YouTube Tutorial video of the same.
 
 %[https://www.youtube.com/watch?v=I5yruIDWCNI]
 
+[Repository for Ultimate Resource in python](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub). Drop a star if you find it useful! Got anything to add? Open a PR on the same!
+
+
 ### Pre-requisites:
 ```
 1. Basic knowledge about Python
@@ -101,11 +104,14 @@ You can connect with me on [Twitter](https://twitter.com/ayushi7rawat).
 
 You should definitely check out my other Blogs:
 
-- [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
 - [Python 3.9: All You need to know](https://ayushirawat.com/python-39-all-you-need-to-know)
+- [The Ultimate Python Resource hub](https://ayushirawat.com/the-ultimate-python-resource-hub)
+- [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
+- [Become a Better Programmer](https://ayushirawat.com/become-a-better-programmer)
 - [How to make your own Google Chrome Extension](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
-- [How to create your own captcha with python](https://ayushirawat.com/how-to-create-your-own-captcha-with-python)
+- [Create your own Audiobook from any pdf with Python](https://ayushirawat.com/create-your-own-audiobook-from-any-pdf-with-python)
 - [You are Important & so is your Mental Health!](https://ayushirawat.com/you-are-important-and-so-is-your-mental-health)
+
 
 Resource:
 - https://en.wikipedia.org/wiki/QR_code
