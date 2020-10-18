@@ -106,7 +106,7 @@ Do share your valuable feedback and suggestions!
 
 You should definitely check out my other Blogs:
 
-- [Python 3.9: All You need to know(https://ayushirawat.com/python-39-all-you-need-to-know)
+- [Python 3.9: All You need to know](https://ayushirawat.com/python-39-all-you-need-to-know)
 - [The Ultimate Python Resource hub](https://ayushirawat.com/the-ultimate-python-resource-hub)
 - [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
 - [Become a Better Programmer](https://ayushirawat.com/become-a-better-programmer)
