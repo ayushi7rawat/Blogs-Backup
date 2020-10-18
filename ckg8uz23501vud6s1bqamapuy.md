@@ -4,7 +4,7 @@ A curated list of Ultimate Python resources is here! (If you are getting started
 
 A lot of people have been recently asking me about python books, courses to refer and other resources guidance help. So here are some resources for you.
 
-PS- I will keep Updating this Blog article. If you want me to add anything, feel free to post your suggestion in the comments box or at You can Dm me at [Twitter](https://twitter.com/ayushi7rawat).
+PS- I will keep Updating this Blog article. If you want me to add anything, feel free to post your suggestion in the comments box or at You can Dm me at [Twitter](https://twitter.com/ayushi7rawat). I would recommend you to [open a Pull Request](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub) for the same.
 
 Refer this link to navigate to [Python Official Documentation](https://docs.python.org/3/)
 
@@ -143,15 +143,28 @@ You can find all the resources at my [GitHub Repository](https://github.com/ayus
 7. urwid
 8. Toga
 
+## Python Github Repositories 
+1. [The Algorithms](https://github.com/TheAlgorithms/Python)
+2. [Python](https://github.com/python)
+3. [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+4. [Awesome Python](https://github.com/vinta/awesome-python)
+
+## Python Community and Groups
+1. [PySlackers](https://pyslackers.com/)
+2. [r/Python](https://www.reddit.com/r/Python/)
+3. [Python Discord Server](https://discord.com/invite/python)
+
 Thank you for reading, I would love to connect with you at [Twitter](https://twitter.com/ayushi7rawat).
 
 You should definitely check out my other Blogs:
 
-- [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
 - [Python 3.9: All You need to know](https://ayushirawat.com/python-39-all-you-need-to-know)
-- [Create your own Audiobook from any pdf with Python](https://ayushirawat.com/create-your-own-audiobook-from-any-pdf-with-python)
+- [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
+- [Become a Better Programmer](https://ayushirawat.com/become-a-better-programmer)
 - [How to make your own Google Chrome Extension](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
-- [How to generate QR Code using Python](https://ayushirawat.com/how-to-generate-qr-code-using-python)
+- [Create your own Audiobook from any pdf with Python](https://ayushirawat.com/create-your-own-audiobook-from-any-pdf-with-python)
 - [You are Important & so is your Mental Health!](https://ayushirawat.com/you-are-important-and-so-is-your-mental-health)
+
+
 
 See you in my next Blog article, Take care!
