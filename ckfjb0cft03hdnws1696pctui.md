@@ -4,6 +4,8 @@ Hi If you’re wondering whether you should use Flask or Django for your project
 
 %[https://www.youtube.com/watch?v=jOGU4V018OU]
 
+[Repository for Ultimate Resource in python](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub). Drop a star if you find it useful! Got anything to add? Open a PR on the same!
+
 According to the 2018 Jetbrains Python Developers Survey, Django and Flask are by far the two most popular Python web frameworks. A web developer has the option to choose from a wide range of web frameworks while using Python as server-side programming languages. To help you make an informed choice between these frameworks, we will discuss what they are and a head to head comparison between the two.
 
 ## Types of Python frameworks
@@ -77,6 +79,16 @@ If you are looking for simplicity and flexibility, then Flask might be a good ch
 If you have any comments, ideas or suggestions on Flask vs Django comparison – do share in the comment box. Which one do u personally prefer? Do you know of anything Flask can do and Django cannot? Please share your thoughts!
 
 You can connect with me on [Twitter](https://twitter.com/ayushi7rawat)
+
+Also, have a look at my other Blogs:
+- [Python 3.9: All You need to know](https://ayushirawat.com/python-39-all-you-need-to-know)
+- [The Ultimate Python Resource hub](https://ayushirawat.com/the-ultimate-python-resource-hub)
+- [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
+- [Become a Better Programmer](https://ayushirawat.com/become-a-better-programmer)
+- [How to make your own Google Chrome Extension](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
+- [Create your own Audiobook from any pdf with Python](https://ayushirawat.com/create-your-own-audiobook-from-any-pdf-with-python)
+- [You are Important & so is your Mental Health!](https://ayushirawat.com/you-are-important-and-so-is-your-mental-health)
+
 
 ### Resources:
 
