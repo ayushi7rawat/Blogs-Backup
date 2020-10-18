@@ -62,15 +62,20 @@ Here are 50 Tips to become a better programmer, overcome the common problems beg
 49. Practice typing
 50. Value your work
 
+[Repository for Ultimate Resource in python](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub). Drop a star if you find it useful! Got anything to add? Open a PR on the same!
+
 Thank you for reading, I would love to connect with you at [Twitter](https://twitter.com/ayushi7rawat).
 
 Do share your valuable feedback and suggestions! 
 
 You should definitely check out my other Blogs:
 
-- [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
 - [Python 3.9: All You need to know](https://ayushirawat.com/python-39-all-you-need-to-know)
-- [Create your own Audiobook from any pdf with Python](https://ayushirawat.com/create-your-own-audiobook-from-any-pdf-with-python)
+- [The Ultimate Python Resource hub](https://ayushirawat.com/the-ultimate-python-resource-hub)
+- [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
 - [How to make your own Google Chrome Extension](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
-- [How to generate QR Code using Python](https://ayushirawat.com/how-to-generate-qr-code-using-python)
+- [Create your own Audiobook from any pdf with Python](https://ayushirawat.com/create-your-own-audiobook-from-any-pdf-with-python)
 - [You are Important & so is your Mental Health!](https://ayushirawat.com/you-are-important-and-so-is-your-mental-health)
+
+See you in my next Blog article, Take care
+
