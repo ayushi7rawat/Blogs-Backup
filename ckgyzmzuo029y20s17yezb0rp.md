@@ -42,7 +42,7 @@ Now that you are aware of Translator and Googletrans basics, we can move forward
 
 ## Time to code!
 
-You can find all the code at my [GitHub Repository](https://github.com/ayushi7rawat/Youtube-Projects/tree/master/GIF%20Converter). **Drop a star** if you find it useful.
+You can find all the code at my [GitHub Repository](https://github.com/ayushi7rawat/Youtube-Projects/tree/master/Build%20a%20translater). **Drop a star** if you find it useful.
 
 ![carbon (6).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1604115469214/bpJGegX_F.png)
 
@@ -125,7 +125,7 @@ This is how the conversion is done. This is all about the **creating a Translato
 
 You can play around with the library and explore more features and even make use of Python GUI using Tkinter.
 
-You can find all the code at my [GitHub Repository](https://github.com/ayushi7rawat/Youtube-Projects/tree/master/GIF%20Converter). **Drop a star** if you find it useful.
+You can find all the code at my [GitHub Repository](https://github.com/ayushi7rawat/Youtube-Projects/tree/master/Build%20a%20translater). **Drop a star** if you find it useful.
 
 Thank you for reading, I would love to connect with you at [Twitter](https://twitter.com/ayushi7rawat) | [LinkedIn](). I would recommend you to Check out the [YouTube video]() of the same and **don't forget to subscribe my Channel**.
 
