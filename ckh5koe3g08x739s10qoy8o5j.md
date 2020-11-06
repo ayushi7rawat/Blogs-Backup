@@ -1,6 +1,6 @@
 ## Draw Heart with Python using Turtle
 
-In this Blog article, we will learn how to **Create a heart with Turtle**, we will see the implementation it in **Python**.
+In this Blog article, we will learn how to **Create a heart with Turtle**, we will see the implementation in **Python**.
 
 [Repository for Ultimate Resource in python](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub). Drop a star if you find it useful! Got anything to add? Open a PR on the same!
 
