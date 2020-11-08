@@ -40,10 +40,12 @@ If you wish to know more about it, you can refer to [Pyjokes Documentation](http
 Now that you are aware of Pyjokes basics, we can move forward to the coding section. 
 
 ## Time to Code!
+You can find all the code at my [GitHub Repository](https://github.com/ayushi7rawat/Youtube-Projects/tree/master/Jokes%20Generator). **Drop a star** if you find it useful.
+
+![code.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1604803567735/81y2d_3Mp.png)
 
 In order to access the Python library, you need to install it into your Python environment, use the following command to install `pyjokes`  
 
-![code.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1604803567735/81y2d_3Mp.png)
 ```
 pip install pyjokes
 ```
@@ -114,7 +116,7 @@ This is how you generate jokes. This is all about the **generating jokes with Py
 
 You can play around with the library and explore more features and even make use of Python GUI using Tkinter.
 
-You can find all the code at my [GitHub Repository](https://github.com/ayushi7rawat/Youtube-Projects/tree/master/Build%20a%20translater). **Drop a star** if you find it useful.
+You can find all the code at my [GitHub Repository](https://github.com/ayushi7rawat/Youtube-Projects/tree/master/Jokes%20Generator). **Drop a star** if you find it useful.
 
 Thank you for reading, I would love to connect with you at [Twitter](https://twitter.com/ayushi7rawat) | [LinkedIn](). I would recommend you to Check out the [YouTube video](https://www.youtube.com/watch?v=nFfItgJnX6M) of the same and **don't forget to subscribe my Channel**.
 
