@@ -135,7 +135,7 @@ You can play around with the Js2Py library and even explore more features.
 
 You can find all the code at my [GitHub Repository](https://github.com/ayushi7rawat/Youtube-Projects/tree/master/Run%20javascript%20in%20python). **Drop a star** if you find it useful.
 
-Thank you for reading, I would love to connect with you at [Twitter](https://twitter.com/ayushi7rawat) | [LinkedIn]().
+Thank you for reading, I would love to connect with you at [Twitter](https://twitter.com/ayushi7rawat) | [LinkedIn](https://www.linkedin.com/in/ayushi7rawat/).
 
 Do share your valuable suggestions, I appreciate your honest feedback!
 
