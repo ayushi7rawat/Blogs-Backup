@@ -1,4 +1,4 @@
-## How to Develope & Showcase Soft Skills
+## How to Develop & Showcase Soft Skills
 
 Hello World, Hope you are doing well!
 
