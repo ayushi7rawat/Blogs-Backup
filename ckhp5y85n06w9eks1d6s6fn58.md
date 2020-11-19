@@ -4,7 +4,7 @@ Hello World!
 
 I am attending a [Technical Writing Bootcamp](https://hashnode.com/bootcamp/batch-2) at @hashnode. **Hashnode Bootcamp II** is a free virtual Bootcamp to help beginner technical writers to improve their writing skill.
 
-This article is inspired by the latest session by **Michaela Greiler**, @dailydevtips, she suggested to write about what does successful blogging mean.
+This article is inspired by the latest session by **Michaela Greiler**, @mgreiler, she suggested to write about what does successful blogging mean.
 
 In this Blog article, I will share my thoughts on the same.
 
