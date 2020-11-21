@@ -23,7 +23,7 @@ A progress bar is a graphical control element used to visualize the progression 
 
 `tqdm` means "progress" in Arabic (*taqadum*, تقدّم) and is an abbreviation for "I love you so much" in Spanish (*te quiero demasiado*).  `tqdm` is Fast and Extensible Progress Meter.
 
-If you wish to know more about it, you can refer to [`tqdm`Documentation](https://pypi.org/project/speedtest-cli/). Use this link to navigate to the documentation.
+If you wish to know more about it, you can refer to [`tqdm`Documentation](https://github.com/tqdm/tqdm). Use this link to navigate to the documentation.
 
 Now that you are aware of `tqdm`  basics, we can move forward to the coding section. Let's get started!
 
