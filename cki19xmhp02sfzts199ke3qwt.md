@@ -2,6 +2,12 @@
 
 Hello world!
 
+I am attending a [Technical Writing Bootcamp](https://hashnode.com/bootcamp/batch-2) at [@hashnode](https://hashnode.com/@hashnode). **Hashnode Bootcamp II** is a free virtual Bootcamp to help beginner technical writers to improve their writing skill. This article is inspired by the latest session by **Anna McDougall**, [@AnnaJMcDougall]
+
+**TASK:** *In 7 days, write a blog post from one of the topics you learned during the session* 
+
+In this Blog article, I will share my thoughts on the same. Let's get started.
+
 Have you heard about Instagram? Do you Use Instagram? Well, In this Blog article, we will learn how to **Download Display Picture of an Instagram Account.** We will see the implementation in Python.
 
 [Check out the Repository for Ultimate Resource in python](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub). Drop a star if you find it useful! Got anything to add? Open a PR on the same!
