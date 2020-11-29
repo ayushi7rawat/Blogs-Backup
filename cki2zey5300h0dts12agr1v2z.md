@@ -12,7 +12,7 @@ In this Blog article, we will learn how to **Create a Random Password Generator.
 
 You can refer to my **YouTube video Tutorial** to see a working tutorial for better Understanding and a step by step Guide of the same. 
 
-%[https://www.youtube.com/watch?v=7C-6pCsw8gM]
+%[https://www.youtube.com/watch?v=AjiGVu2xbx8]
 
 ## What will be covered in this Blog
 
