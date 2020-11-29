@@ -126,7 +126,7 @@ Let's have look at few sample outputs:
 
 With these steps, we have successfully created a random password generator project using python. That's it! 
 
-Simple, isn't it? Hope this tutorial has helped. I would strongly recommend you to Check out the [YouTube video](https://www.youtube.com/watch?v=7C-6pCsw8gM) of the same and **don't forget to subscribe my Channel**.
+Simple, isn't it? Hope this tutorial has helped. I would strongly recommend you to Check out the [YouTube video](https://www.youtube.com/watch?v=AjiGVu2xbx8) of the same and **don't forget to subscribe my Channel**.
 
 You can play around with the Instaloader library and even explore more features. You can even make use of Python GUI using Tkinter.
 
