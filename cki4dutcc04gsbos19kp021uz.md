@@ -8,7 +8,7 @@ IP address helps in connecting our computer to other devices on our network and 
 
 You can refer to my **YouTube video Tutorial** to see a working tutorial for better Understanding and a step by step Guide of the same. 
 
-%[https://www.youtube.com/watch?v=7C-6pCsw8gM]
+%[https://www.youtube.com/watch?v=v7JYwG5hdYs]
 
 ## What will be covered in this Blog
 
@@ -105,7 +105,7 @@ print('The IP Address of ' + host + ' is: '  + ip)
 
 With these steps, you can successfully get the IP Address of any website using python. That's it! 
 
-Simple, isn't it? Hope this tutorial has helped. I would strongly recommend you to Check out the [YouTube video](https://www.youtube.com/watch?v=7C-6pCsw8gM) of the same and **don't forget to subscribe my Channel**.
+Simple, isn't it? Hope this tutorial has helped. I would strongly recommend you to Check out the [YouTube video](https://www.youtube.com/watch?v=v7JYwG5hdYs) of the same and **don't forget to subscribe my Channel**.
 
 You can play around with the socket library and even explore more features. You can even make use of Python GUI using Tkinter.
 
