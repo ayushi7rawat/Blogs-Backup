@@ -8,7 +8,7 @@ In this Blog article, we will learn how to **Turn any image to an ASCII art.** W
 
 You can refer to my **YouTube video Tutorial** to see a working tutorial for better Understanding and a step by step Guide of the same. 
 
-%[https://www.youtube.com/watch?v=ixB2YHGSiAQ]
+%[https://www.youtube.com/watch?v=AOa4T_xW9cc]
 
 ## What will be covered in this Blog
 
