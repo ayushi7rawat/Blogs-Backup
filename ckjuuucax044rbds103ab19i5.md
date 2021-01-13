@@ -93,6 +93,7 @@ print('\n')
 kt.info(target2,lines=3)
 ```
 
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1610509747564/BzwNxGeUt.png)
 With these steps, we have successfully **Performed Google search using python.** That's it! 
 
 Simple, isn't it? Hope this tutorial has helped. I would strongly recommend you to Check out the [YouTube video](https://www.youtube.com/watch?v=ixB2YHGSiAQ) of the same and **don't forget to subscribe my Channel**.
