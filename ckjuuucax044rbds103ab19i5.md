@@ -117,7 +117,7 @@ You should definitely check out my other Blogs:
 
 ## Resources:
 
-- https://en.wikipedia.org/wiki/ASCII
+- https://en.wikipedia.org/wiki/Wikipedia
 - https://pypi.org/project/pywhatkit/
 - https://github.com/Ankit404butfound/PyWhatKit
 
