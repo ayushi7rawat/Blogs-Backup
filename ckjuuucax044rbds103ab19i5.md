@@ -8,7 +8,7 @@ In this Blog article, we will learn how to **Generate Wiki Summary.** We will se
 
 You can refer to my **YouTube video Tutorial** to see a working tutorial for better Understanding and a step by step Guide of the same. 
 
-%[https://www.youtube.com/watch?v=ixB2YHGSiAQ]
+%[https://www.youtube.com/watch?v=uCbyOU_oEVQ]
 
 ## What will be covered in this Blog
 
