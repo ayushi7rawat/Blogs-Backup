@@ -191,53 +191,9 @@ It should look something like this.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 With these steps, we have successfully **Drawn an Indian Flag using Python.** That's it! 
 
-Simple, isn't it? Hope this tutorial has helped. I would strongly recommend you to Check out the [YouTube video](https://www.youtube.com/watch?v=ixB2YHGSiAQ) of the same and **don't forget to subscribe my Channel**.
+Simple, isn't it? Hope this tutorial has helped. I would strongly recommend you to Check out the [YouTube video](https://www.youtube.com/watch?v=4gvmxgkeAjo) of the same and **don't forget to subscribe my Channel**.
 
 You can play around with the `turtle` library and even explore more features. 
 
