@@ -2,7 +2,7 @@
 
 Hello world!
 
-In this Blog article, we will learn how to **Generate Wiki Summary.** We will see the implementation in Python.
+In this Blog article, we will learn how to **Draw Indian Flag.** We will see the implementation in Python.
 
 [Check out the Repository for Ultimate Resource in python](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub). Drop a star if you find it useful! Got anything to add? Open a PR on the same!
 
@@ -235,11 +235,11 @@ It should look something like this.
 
 
 
-With these steps, we have successfully **Performed Google search using python.** That's it! 
+With these steps, we have successfully **Drawn an Indian Flag using Python.** That's it! 
 
 Simple, isn't it? Hope this tutorial has helped. I would strongly recommend you to Check out the [YouTube video](https://www.youtube.com/watch?v=ixB2YHGSiAQ) of the same and **don't forget to subscribe my Channel**.
 
-You can play around with the `pywhatkit` library and even explore more features. 
+You can play around with the `turtle` library and even explore more features. 
 
 You can find all the code at my [GitHub Repository](https://github.com/ayushi7rawat/Youtube-Projects/tree/master/Indidan%20Flag%20with%20Turtle). **Drop a star** if you find it useful.
 
@@ -259,8 +259,6 @@ You should definitely check out my other Blogs:
 
 ## Resources:
 
-- https://en.wikipedia.org/wiki/ASCII
-- https://pypi.org/project/pywhatkit/
-- https://github.com/Ankit404butfound/PyWhatKit
+- https://docs.python.org/3/library/turtle.html
 
 See you in my next Blog article, Take care!!
