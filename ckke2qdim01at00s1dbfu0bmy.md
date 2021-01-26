@@ -21,7 +21,7 @@ You can refer to my **YouTube video Tutorial** to see a working tutorial for bet
 
 ## What is Turtle?
 
-`Turtle` is a pre-installed Python library. It that enables users to create pictures and shapes by providing them with a virtual canvas. The onscreen pen that you use for drawing is called as **turtle**. 
+`Turtle` is a pre-installed Python library. It enables users to create pictures and shapes by providing them with a virtual canvas. The onscreen pen that you use for drawing is called as **turtle**. 
 
 The turtle has three attributes: a location, an orientation (or direction), and a pen.
 
