@@ -1,6 +1,7 @@
 ## Draw Indian Flag using Python
 
-Hello world! This Republic day I tried to do something creative and made an Indian Flag with Turtle using Python.
+Hello world! This Republic day I tried to do something creative and made an Indian Flag with Turtle using Python. 
+
 
 In this Blog article, we will learn how to **Draw Indian Flag.** We will see the implementation in Python.
 
