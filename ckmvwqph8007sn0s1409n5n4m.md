@@ -1,6 +1,6 @@
 ## Fetch All Information of any Country using Python
 
-Hello, world!
+Hello, world!    
 
 In this Blog article, we will learn how to **Fetch data of any Country.** We will see the implementation in **Python**.
 
