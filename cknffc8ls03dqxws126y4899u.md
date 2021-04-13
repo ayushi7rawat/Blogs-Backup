@@ -47,13 +47,13 @@ Let's have a look at an example:
 **`RAW`:**
 
 ```python
-Hello world!
+hello world!
 ```
 
 **`camel Case`:**
 
 ```python
-HelloWorld!
+helloWorld!
 ```
 
 So, this case combined words by capitalizing the first letter of each word except the first one.
