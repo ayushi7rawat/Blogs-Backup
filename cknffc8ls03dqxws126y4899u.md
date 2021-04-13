@@ -145,7 +145,7 @@ Simple, isn't it? Hope this tutorial has helped and you have understood all **Ca
 
 I would strongly recommend you to Check out the [YouTube video](https://www.youtube.com/watch?v=4gJYICtm_gk) of the same and **don't forget to subscribe to my Channel**.
 
-You can find all the code at my [GitHub Repository](https://github.com/ayushi7rawat/Youtube-Projects/tree/master/Fetch%20data%20of%20any%20country). **Drop a star** if you find it useful.
+You can find all the code at my [GitHub Repository](https://github.com/ayushi7rawat/Youtube-Projects/tree/master/Case%20style%20in%20programming). **Drop a star** if you find it useful.
 
 Thank you for reading, I would love to connect with you at [Twitter](https://twitter.com/ayushi7rawat) | [LinkedIn](https://www.linkedin.com/in/ayushi7rawat/).
 
