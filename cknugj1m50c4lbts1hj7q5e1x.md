@@ -1,6 +1,7 @@
 ## Internet Speed Test using Python
 
-Hello there, I am attending a [Technical Writing Bootcamp](https://hashnode.com/bootcamp/batch-3) at [@hashnode](https://hashnode.com/@hashnode). **Hashnode Bootcamp III** is a free virtual Bootcamp to help beginner technical writers to improve their writing skill. This article is inspired by the latest session by **Sam Julien**, @samjulien
+Hello there,
+I am attending a [Technical Writing Bootcamp](https://hashnode.com/bootcamp/batch-3) at [@hashnode](https://hashnode.com/@hashnode). **Hashnode Bootcamp III** is a free virtual Bootcamp to help beginner technical writers to improve their writing skill. This article is inspired by the latest session by **Sam Julien**, @samjulien
 
 TASK: *Write 1 TIL format blog post on Hashnode to test out your own content system from drafting all the way to promoting.*
 
