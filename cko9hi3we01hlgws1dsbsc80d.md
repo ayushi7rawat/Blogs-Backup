@@ -81,17 +81,18 @@ NOTE: If your browser window is open is already running, it will perform the sea
 
 Let's have a look at another example and this time let's set multiple target items for the search operation. After post successful run, `n` new tabs will get opened, where `n` being the number of search items listed in the python script.
 
-With these steps, we have successfully **Performed Google search using python.** That's it! 
 
-Simple, isn't it? Hope this tutorial has helped. I would strongly recommend you to Check out the [YouTube video](https://www.youtube.com/watch?v=JO_2EjW0jSM) of the same and **don't forget to subscribe to my Channel**.
 
-You can play around with the `pywhatkit` library and even explore more features. 
+And with that, it's a wrap! With these steps, we have successfully **Performed Google search using python.** That's it! You can play around with the `pywhatkit` library and even explore more features. You can find all the code at my [GitHub Repository](https://github.com/ayushi7rawat/Youtube-Projects/tree/master/Perform%20Google%20search). **Drop a star** if you find it useful.
 
-You can find all the code at my [GitHub Repository](https://github.com/ayushi7rawat/Youtube-Projects/tree/master/Perform%20Google%20search). **Drop a star** if you find it useful.
+Simple, isn't it? Hope this tutorial has helped. I would strongly recommend you to Check out the [YouTube video](https://www.youtube.com/watch?v=JO_2EjW0jSM) of the same and **don't forget to subscribe to my Channel**. 
 
-Thank you for reading, I would love to connect with you at [Twitter](https://twitter.com/ayushi7rawat) | [LinkedIn](https://www.linkedin.com/in/ayushi7rawat/).
+I write about career, Blogging, programming, and productivity, If this is something that interests you, please share the article with your friends and connections. You can also subscribe to my newsletter to get updates every time I write something!
 
-Do share your valuable suggestions, I appreciate your honest feedback!
+Thank you for reading, If you have reached so far, please like the article, It will encourage me to write more such articles.  Do share your valuable suggestions, I appreciate your honest feedback!
+
+I would love to connect with you at [Twitter](https://twitter.com/ayushi7rawat) | [LinkedIn](https://www.linkedin.com/in/ayushi7rawat/).
+
 
 You should definitely check out my other Blogs:
 
