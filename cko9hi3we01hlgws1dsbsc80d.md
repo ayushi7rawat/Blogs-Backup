@@ -2,7 +2,7 @@
 
 Hello world!
 
-In this Blog article, we will learn how to **Perform a Google search.** We will see the implementation in Python.
+We perform a google search in our day-to-day life. Have you ever wondered that you can implement the same using a programming language, In this Blog article, we will learn how to **Perform a Google search.** We will see the implementation in Python.
 
 [Check out the Repository for Ultimate Resource in python](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub). Drop a star if you find it useful! Got anything to add? Open a PR on the same!
 
