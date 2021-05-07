@@ -115,11 +115,11 @@ Now that you have acquired basic knowledge of _IDE’s and_ are familiar with _o
 -  **License:** MIT License
 - Atom is free, sleek, lightweight, and open-source IDE. 
 - **Operating system**: Windows, macOS, Linux (cross-platform IDE and works on macOS, Linux, and Microsoft Windows)
-- It supports third-party packages and for plug-
+- It supports third-party packages and plug-ins
 - It is developed by GitHub.
 - It also supports other languages such as C. C++ java etc
 
-I will soon make a separate video on each ide in detail and how you install and make full use of it. So stay tuned. 
+I will soon make a separate video on each IDE in detail and how you install and make full use of it. So stay tuned. 
 
 Every IDE’s has some pros or cons, so my favorite Ide might not yours too. So comment down below to let me know what’s your favorite IDE.
 
