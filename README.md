@@ -1,2 +1,2 @@
 # Hashnode-Backup
-Integrating with hashnode to storing my Blogs posts backup.
+Integrating with hashnode to store my Blogs posts backup.
