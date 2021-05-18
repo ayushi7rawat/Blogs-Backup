@@ -1,6 +1,6 @@
 ## Automate Cowin Vaccine slots Availablity using Python
 
-Hello Reader!
+Hello Reader! 
 
 I hope you all are safe and sound and at home. Do not step out of your house unless it’s absolutely necessary with proper precautions.
 
