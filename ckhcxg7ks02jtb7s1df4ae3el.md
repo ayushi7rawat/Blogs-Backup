@@ -6,6 +6,10 @@ Soft Skills play a vital role in Interviews and in shaping one's career.
 
 In this Blog article learn what soft skills are, examples of soft skills, why are they important, ways to develop soft skills and how to showcase them. 😄✔️⭐️
 
+You can also refer to my YouTube Video for the same! I am sure you will like it! 
+
+%[https://www.youtube.com/watch?v=bLcjvkMTRyo] 
+
 ## What are soft skills?
 
 **Soft skills are your character and personality traits and help climb up the career ladder.**
