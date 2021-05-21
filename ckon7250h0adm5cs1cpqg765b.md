@@ -1,4 +1,4 @@
-## Automate Cowin Vaccine slots Availablity using Python
+## Automate Cowin Vaccine slots Availability using Python
 
 Hello Reader! 
 
