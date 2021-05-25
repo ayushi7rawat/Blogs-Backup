@@ -76,7 +76,7 @@ Git is a version control system that lets you manage and keep track of your sour
 
 ![Brown and Orange Neutral Delicate Organic Fashion Marketing Presentation.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1621695068928/kp1Qu_lTo.png)
 
-That’s Git and GitHub in a nutshell. Do you have a GitHub account? Share the link below. And with that, it's a wrap!  I hope you found the article useful! Which one is your favorite Podcast? Share in comments below.
+That’s Git and GitHub in a nutshell. Do you have a GitHub account? Share the link below. And with that, it's a wrap!  I hope you found the article useful! Share in the comments below.
 I create content about **Career, Blogging, Programming, and Productivity**, If this is something that interests you, please share the article with your friends and connections. You can also subscribe to my newsletter to get updates every time I write something!
 
 Thank you for reading, If you have reached so far, please like the article, It will encourage me to write more such articles. Do share your valuable suggestions, I appreciate your honest feedback!
