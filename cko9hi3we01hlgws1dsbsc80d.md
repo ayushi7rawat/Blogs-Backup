@@ -52,7 +52,7 @@ pip install pywhatkit as kt
 Now, we need to import the package in our python script. Use the following command to do so.
 
 ```python
-from pywhatkit as kt
+import pywhatkit as kt
 ```
 
 Now that we have imported the library using the command `import pywhatkit as kt`, let's proceed. 
