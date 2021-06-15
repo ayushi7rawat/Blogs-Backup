@@ -1,6 +1,7 @@
 ## Git Hack: Make commit with a past date
 
 Hello reader! 
+
 *Ever wanted to commit something to a git repo with a past date? Here’s how you could do it.*
 
 If you are working on a project and missed a commit yesterday or you accomplished the task but GitHub for Windows bailed on you? Well, this little hack can solve your problem.
