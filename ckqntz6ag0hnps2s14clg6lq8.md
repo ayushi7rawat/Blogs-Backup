@@ -4,7 +4,7 @@ Hello reader! In this blog post, we will learn about API in plain English.
 
 You can refer to my **YouTube video Tutorial** to see a working tutorial for better understanding and a step-by-step guide of the same. 
 
-%[]
+%[https://www.youtube.com/watch?v=NHVQiDDZ5TA]
 
 ## What will be covered in this Blog
 
