@@ -92,7 +92,7 @@ GitHub assigns rights to the person writing the code, so the user becomes respon
 
 It is very interesting to observe how events will now unfold and what the future holds for us but regardless, I do not think that it will replace developer jobs anytime soon. What do you think of this? Share your thoughts in the comment box below.
 
-That's it. And with that, it's a wrap! I hope you found the article useful and now you can start building some projects with API!
+That's it. And with that, it's a wrap! I hope you found the article useful.
 
 I create content about **Career, Blogging, Programming, and Productivity**, If this is something that interests you, please share the article with your friends and connections. You can also subscribe to my newsletter to get updates every time I write something!
 
