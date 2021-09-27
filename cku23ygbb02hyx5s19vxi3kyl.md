@@ -4,6 +4,10 @@ Hello reader!
 
 Well, Hacktoberfest is something, you are gonna hear a lot about in the coming month.  
 
+You can refer to my **YouTube video Tutorial** to see a working tutorial for better understanding and a step-by-step guide of the same. 
+
+%[https://www.youtube.com/watch?v=N7mCkGjX6vk]
+
 Hacktoberfest will be hosted by Digital Ocean for the 8th year in a row in partnership with GitHub and other companies, yes you read it right. What I personally love about it is that it bring developers with the same mindset together from all over the world.
 
 So, what is Hacktoberfest after all? We will learn all about it in the next few minutes.
