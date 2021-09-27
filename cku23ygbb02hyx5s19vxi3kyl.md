@@ -8,6 +8,16 @@ Hacktoberfest will be hosted by Digital Ocean for the 8th year in a row in partn
 
 So, what is Hacktoberfest after all? We will learn all about it in the next few minutes.
 
+## What will be covered in this Blog
+
+```python
+1. What is Open Source?
+2. What is Hacktoberfest?
+3. Who can Join?
+4. PERKS of participating
+5. Global Stats for Hacktoberfest 2020
+```
+
 *Let's get started!*
 
 ## What is Open Source?
