@@ -100,7 +100,7 @@ Also,
 
   Don’t miss this opportunity. Start contributing to open source and get a limited edition T-shirt for Free! 
 
-  Refer [Hackoberfest wesbite for more](https://hacktoberfestswaglist.com/)
+  Refer [Hackoberfest website for more](https://hacktoberfestswaglist.com/)
 
   Got anything to add? mention in the comment box below and I will update the list.
 
