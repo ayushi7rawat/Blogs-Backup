@@ -74,6 +74,8 @@ Here's something beginner-friendly for you:
 
 Registrations are now open but you can sign up anytime between October 1 and October 31 in any time zone. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.
 
+![Screenshot_2.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1632978391674/a-vDShPna.jpeg)
+
 ## How to earn a Swag kit:
 
 For your PR to count it must be:
